@@ -5,7 +5,7 @@ description: Introduction
 
 |{{< figure src="/images/myphoto.jpg" title="Me" width="300" height="300">}}||
 |:---------:|:------:|
-Namaste, I am Shubh Sharma a **Computer Science Engineering** undergraduate student at the **HMR Institute of Technology and Management, Guru Gobind Singh Indraprastha University** in New Delhi, India. Expected completion in **2021**.
+Namaste, I am Shubh Sharma a **Computer Science Engineering** undergraduate student at the **HMR Institute of Technology and Management, Guru Gobind Singh Indraprastha University** in New Delhi, India. expected completion in **2021**.
 
 I am an alumunus of **DAV Public School, Pushpanjali Enclave, Pitampura**.
 
@@ -21,20 +21,15 @@ I have programmed in various programming languages like:
 **JavaScript**,
 **HTML&CSS**.
 
-But the language I consider my favourite is **C/C++**.
+But the languages I consider my favourite are **C & C++**.
 
-The technologies I am particularly interested are: **Ray Tracing**, **Unity3D**, **SFML**, **OpenGL**.
+The technologies I am particularly interested are: **Ray Tracing**, **Game Engines like Unity3D/UnrealEngine/Godot**, **SFML/SDL**, **OpenGL** & **Vulkan**.
 
 Although I am heavily interested in Computer Science, I do have many other hobbies that keep me interested. 
-Hobbies such as **Art**, **Literature**, **Writing**, **Gaming**, **Languages** ,**History**, have been an integral part of my life since childhood. 
+Hobbies such as **Art**, **Literature**, **Writing/Story Telling**, **Movie Making**, **Gaming**, **Languages** ,**History** etc have been an integral part of my life since childhood. 
+
+Mail me @ **flummoxedshubh@gmail.com**
 
 ### I hope you find something that interests you.
 
 ---
-## Achievments
-
-**Throughout school and college I have participated in variety of Events and Competitions.**
-
-{{< figure src="" title="certificate" width="400" height="300">}}
----
-

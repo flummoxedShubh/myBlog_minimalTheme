@@ -27,14 +27,14 @@ theme = "minimal"
     weight = 3
 
 [[menu.main]]
-    url = "/project/"
+    url = "/projects/"
     name = "Projects"
     weight = 4
 
 #SOCIAL ICONS
 
 [[menu.icon]]
-    url = "flummoxedshubh@gmail.com"
+    url = "mailto:flummoxedshubh@gmail.com"
     name = "envelope-o"
     weight = 1
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSGO on Shubh Sharma</title>
+    <link>http://shubhsharma.net/tags/csgo/</link>
+    <description>Recent content in CSGO on Shubh Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2020 20:11:34 +0530</lastBuildDate><atom:link href="http://shubhsharma.net/tags/csgo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theory of Aiming in First Person Shooter (FPS) Games</title>
+      <link>http://shubhsharma.net/posts/theory-of-aiming/</link>
+      <pubDate>Thu, 04 Jun 2020 20:11:34 +0530</pubDate>
+      
+      <guid>http://shubhsharma.net/posts/theory-of-aiming/</guid>
+      <description>Introduction On 2nd of June 2020, I along with my friends installed Valorant. The newly released shooter turned out to be quite fun. The game is heavily focused on holding angles and early contests of choke point control. This simple concept yet the painful execution I experienced made me realize how lacking the “Aim” of majority of players was. Hence, I have decided to pour my knowledge that was built over a number of years to help players learn the fundamentals of aiming.</description>
+    </item>
+    
+  </channel>
+</rss>

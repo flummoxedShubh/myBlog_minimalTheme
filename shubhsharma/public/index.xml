@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubh Sharma</title>
+    <link>http://shubhsharma.net/</link>
+    <description>Recent content on Shubh Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2020 20:11:34 +0530</lastBuildDate><atom:link href="http://shubhsharma.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theory of Aiming in First Person Shooter (FPS) Games</title>
+      <link>http://shubhsharma.net/posts/theory-of-aiming/</link>
+      <pubDate>Thu, 04 Jun 2020 20:11:34 +0530</pubDate>
+      
+      <guid>http://shubhsharma.net/posts/theory-of-aiming/</guid>
+      <description>Introduction On 2nd of June 2020, I along with my friends installed Valorant. The newly released shooter turned out to be quite fun. The game is heavily focused on holding angles and early contests of choke point control. This simple concept yet the painful execution I experienced made me realize how lacking the “Aim” of majority of players was. Hence, I have decided to pour my knowledge that was built over a number of years to help players learn the fundamentals of aiming.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://shubhsharma.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubhsharma.net/about/</guid>
+      <description>Me         Namaste, I am Shubh Sharma a Computer Science Engineering undergraduate student at the HMR Institute of Technology and Management, Guru Gobind Singh Indraprastha University in New Delhi, India. expected completion in 2021.     I am an alumunus of DAV Public School, Pushpanjali Enclave, Pitampura.
+My primary interests include Computer Graphics and Game Programming.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://shubhsharma.net/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubhsharma.net/projects/</guid>
+      <description>These are some of my notable personal projects.  Path Tracer   Output Image   A CPU based Ray Tracer (Path Tracer) written in C++, implemented following the exceptional RayTracingInOneWeekend by Peter Shirley.
+GitHub: PathTracer
+ OpenGL Examples   One of the many Example programs   These programs are small applications made as an exploration of OpenGL and the GLSL (GL Shading Language). Applications act as implementation of various concepts like:</description>
+    </item>
+    
+  </channel>
+</rss>
